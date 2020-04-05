@@ -1,8 +1,7 @@
-# <--------------------------------------------------------------------------------------------------------------->
-# | python3
-# | Bendahon 2020
-# | Maybe even at login with something like guake --execute-command "python3 main.py"
-# <--------------------------------------------------------------------------------------------------------------->
+# <----------------->
+# | python3         |
+# | Bendahon 2020   |
+# <----------------->
 from time import time
 from datetime import datetime
 import os
